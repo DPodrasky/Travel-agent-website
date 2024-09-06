@@ -448,6 +448,20 @@ button {
     align-self: center;
 }
 
+.info-placard {
+    border: 4px solid aliceblue;
+    border-radius: 15px;
+    background-color:rgb(27, 27, 27);
+    margin-top: 40px;
+}
+
+.placard-gp {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    padding-bottom: 20px;
+}
+
 /* ### --special ⭐⭐⭐⭐⭐ getaways-- ### */
 
 .hotel-thumbnail {
